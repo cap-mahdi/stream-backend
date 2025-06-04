@@ -31,7 +31,7 @@ app.add_middleware(
 )
 
 # Path to your audio file
-AUDIO_FILE_PATH = "/app/audio.mp3"
+AUDIO_FILE_PATH = "/audio.mp3"
 
 # Global variables for the audio stream
 _audio_bytes = None
